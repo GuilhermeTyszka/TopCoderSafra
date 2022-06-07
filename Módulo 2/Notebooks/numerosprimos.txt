@@ -1,0 +1,30 @@
+O número 10 não é primo.
+O número 64 não é primo.
+O número 95 não é primo.
+O número 92 não é primo.
+O número 96 não é primo.
+O número 16 não é primo.
+O número 47 é primo.
+O número 21 não é primo.
+O número 50 não é primo.
+O número 74 não é primo.
+O número 78 não é primo.
+O número 29 é primo.
+O número 23 é primo.
+O número 81 não é primo.
+O número 24 não é primo.
+O número 92 não é primo.
+O número 72 não é primo.
+O número 18 não é primo.
+O número 6 não é primo.
+O número 75 não é primo.
+O número 69 não é primo.
+O número 82 não é primo.
+O número 37 é primo.
+O número 63 não é primo.
+O número 26 não é primo.
+O número 43 é primo.
+O número 80 não é primo.
+O número 4 não é primo.
+O número 2 é primo.
+O número 20 não é primo.

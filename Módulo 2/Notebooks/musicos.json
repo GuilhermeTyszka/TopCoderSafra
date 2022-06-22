@@ -1,0 +1,234 @@
+[
+    {
+        "nome": "guilherme tyszka",
+        "email": "guilhermetyszka@hotmail.com",
+        "generos": [
+            "rock",
+            "heavy metal"
+        ],
+        "instrumentos": [
+            "guitarra",
+            "baixo",
+            "teclado"
+        ]
+    },
+    {
+        "nome": "gabriela zorzi",
+        "email": "gabizorzi@hotmail.com",
+        "generos": [
+            "pop",
+            "rock"
+        ],
+        "instrumentos": [
+            "violino",
+            "bateria",
+            "teclado"
+        ]
+    },
+    {
+        "nome": "luna maria tyszka",
+        "email": "luninha@hotmail.com",
+        "generos": [
+            "funk",
+            "ax\u00e9"
+        ],
+        "instrumentos": [
+            "tri\u00e2ngulo",
+            "vocal"
+        ]
+    },
+    {
+        "nome": "luna tyszka",
+        "email": "luninha5@hotmail.com",
+        "generos": [
+            "funk",
+            "ax\u00e9"
+        ],
+        "instrumentos": [
+            "tri\u00e2ngulo",
+            "vocal"
+        ]
+    },
+    {
+        "nome": "luna tyszka",
+        "email": "luninha6@hotmail.com",
+        "generos": [
+            "funk",
+            "ax\u00e9"
+        ],
+        "instrumentos": [
+            "tri\u00e2ngulo",
+            "vocal"
+        ]
+    },
+    {
+        "nome": "alice max tyszka",
+        "email": "alicetyszka@hotmail.com",
+        "generos": [
+            "samba",
+            "pagode",
+            "rock"
+        ],
+        "instrumentos": [
+            "viola",
+            "bateria",
+            "viol\u00e3o"
+        ]
+    },
+    {
+        "nome": "alda mendes zorzi",
+        "email": "aldazorzi@gmail.com",
+        "generos": [
+            "pop",
+            "rock",
+            "ga\u00facho"
+        ],
+        "instrumentos": [
+            "guitarra",
+            "viol\u00e3o"
+        ]
+    },
+    {
+        "nome": "irani zorzi",
+        "email": "irani@yahoo.com.br",
+        "generos": [
+            "sertanejo",
+            "ga\u00facho"
+        ],
+        "instrumentos": [
+            "viol\u00e3o",
+            "gaita"
+        ]
+    },
+    {
+        "nome": "joao tyszka",
+        "email": "joaotyszka@hotmail.com",
+        "generos": [
+            "ga\u00facho"
+        ],
+        "instrumentos": [
+            "viol\u00e3o",
+            "gaita"
+        ]
+    },
+    {
+        "nome": "jackson tyszka",
+        "email": "jacktyszka@hotmail.com",
+        "generos": [
+            "rock",
+            "sertanejo"
+        ],
+        "instrumentos": [
+            "guitarra"
+        ]
+    },
+    {
+        "nome": "leonardo zorzi",
+        "email": "leo@gmail.com",
+        "generos": [
+            "mpb",
+            "\u00f3pera"
+        ],
+        "instrumentos": [
+            "piano",
+            "teclado",
+            "violino"
+        ]
+    },
+    {
+        "nome": "wagner",
+        "email": "wagnerkratos@gmail.com",
+        "generos": [
+            "rock",
+            "heavy metal"
+        ],
+        "instrumentos": [
+            "guitarra",
+            "baixo"
+        ]
+    },
+    {
+        "nome": "m\u00e1rcio pina",
+        "email": "marciop@gmail.com",
+        "generos": [
+            "rock",
+            "heavy metal"
+        ],
+        "instrumentos": [
+            "bateria",
+            "baixo"
+        ]
+    },
+    {
+        "nome": "tiago ramos",
+        "email": "tiagor@hotmail.com",
+        "generos": [
+            "pagode",
+            "samba"
+        ],
+        "instrumentos": [
+            "pandero",
+            "viol\u00e3o"
+        ]
+    },
+    {
+        "nome": "rodrigo dos santos",
+        "email": "rodrigo@gmail.com",
+        "generos": [
+            "mpb",
+            "rock"
+        ],
+        "instrumentos": [
+            "guitarra"
+        ]
+    },
+    {
+        "nome": "bruna schereiber",
+        "email": "bruna_s@gmail.com",
+        "generos": [
+            "rock",
+            "funk",
+            "pop"
+        ],
+        "instrumentos": [
+            "violino",
+            "pandero"
+        ]
+    },
+    {
+        "nome": "sandy",
+        "email": "sandy_2012@gmail.com",
+        "generos": [
+            "ga\u00facho",
+            "funk"
+        ],
+        "instrumentos": [
+            "contrabaixo",
+            "viol\u00e3o"
+        ]
+    },
+    {
+        "nome": "junior",
+        "email": "juninho@yahoo.com",
+        "generos": [
+            "forr\u00f3"
+        ],
+        "instrumentos": [
+            "viol\u00e3o"
+        ]
+    },
+    {
+        "nome": "raquel mendes",
+        "email": "raquelm@gmail.com",
+        "generos": [
+            "mpb",
+            "ga\u00facho",
+            "rock"
+        ],
+        "instrumentos": [
+            "teclado",
+            "guitarra",
+            "viol\u00e3o"
+        ]
+    }
+]

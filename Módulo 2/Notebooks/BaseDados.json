@@ -1,0 +1,39 @@
+[
+    {
+        "CPF": "08194253977",
+        "email": "guilherme@hotmail.com",
+        "nasc": "1994-09-26",
+        "profissao": "Professor",
+        "escolaridade": "P\u00f3s"
+    },
+    {
+        "CPF": "19425397",
+        "email": "guilhermetyszka@hotmail.com",
+        "nasc": "1994-09-27",
+        "profissao": "Professor",
+        "escolaridade": "P\u00f3s"
+    },
+    {
+        "CPF": "2425397",
+        "email": "guilhermetyszka@hotmail.com",
+        "nasc": "1994-09-26",
+        "profissao": "Estudante",
+        "escolaridade": "P\u00f3s"
+    },
+    {
+        "CPF": "2358",
+        "nome": "Alice Max Tyszka",
+        "email": "alicetyszka@hotmail.com",
+        "nasc": "1987-03-25",
+        "profissao": "Lar",
+        "escolaridade": "P\u00f3s"
+    },
+    {
+        "CPF": "08823541913",
+        "nome": "Gabriela Mendes Zorzi",
+        "email": "gabizorzi@yahoo.com.br",
+        "nasc": "1994-03-27",
+        "profissao": "Cientista de dados",
+        "escolaridade": "Superior completo"
+    }
+]
